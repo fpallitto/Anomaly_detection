@@ -1,4 +1,4 @@
-# Anomaly_detection
+# Anomaly Detection
 
 # Nispera April 2022
 
