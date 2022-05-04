@@ -69,4 +69,4 @@
 <img src="/images/ML_trained_model_results.png" width="700" height="500">
 
 #### KNN model accuracy
-<img src="/images/ml_trained_accuracy.png" width="300" height="150">
+<img src="/images/ML_trained_model_results.png" width="300" height="150">
